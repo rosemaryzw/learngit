@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 add merge
 creating a new branch dev
 init hello
+add comment
