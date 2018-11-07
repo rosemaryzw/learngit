@@ -8,3 +8,4 @@ add merge
 creating a new branch dev
 init hello
 add comment
+add author
